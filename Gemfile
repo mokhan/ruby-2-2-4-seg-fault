@@ -1,5 +1,4 @@
 source "https://rubygems.org"
 
-gem 'rails', '4.2.2'
+gem 'nokogiri', '1.6.7.1'
 gem 'rsvg2', '~> 2.2'
-gem 'sqlite3'
